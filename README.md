@@ -67,7 +67,7 @@
 **方式二：从源码构建**
 
 ```bash
-git clone https://github.com/AYuWei/DevApiDegbber.git
+git clone https://github.com/evenjxr/DL-debugger.git
 cd DevApiDegbber
 npm install
 npm run build
